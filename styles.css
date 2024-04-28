@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *{
     box-sizing: border-box;
 }
@@ -100,7 +99,7 @@ p{
     margin: 5px 0px;
     padding: 0px 8px;
     text-indent: -8px;
-=======
+}
 *{
     box-sizing: border-box;
 }
@@ -202,5 +201,4 @@ p{
     margin: 5px 0px;
     padding: 0px 8px;
     text-indent: -8px;
->>>>>>> 6f6da7e8eba45d1fa249b72bc45a32524c27d9d3
 }
